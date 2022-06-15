@@ -12,14 +12,11 @@ I currently work at [Lyon](https://lyon.com.ph/) as Head of Design. I'm also an 
 
 ## Connect
 <section>
-  <a href="https://www.linkedin.com/in/kirpen/" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kir@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=penalberkirstine@gmail.com&tf=1" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/kirpnlbr" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/kirpnlbr/" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -27,7 +24,10 @@ I currently work at [Lyon](https://lyon.com.ph/) as Head of Design. I'm also an 
   <a href="https://www.facebook.com/kirpnlbr" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kir@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kirpen/" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/kirpnlbr" target="_blank" ref="noopener noreferrer">
+    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </section>
