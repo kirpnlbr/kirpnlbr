@@ -1,7 +1,7 @@
 ## Designer-wannabe-socialscientist-developer—a multipotentialite, really.
 Hey I'm Kir! I currently work at [Lyon](https://lyon.com.ph/) as their Head of Design. I'm also an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) for the next school year. This README is still a work-in-progress so apologies if it's a bit drab 😅
 
-**My interests include**: literature, video games, social science, interactive fiction, arts, film, coffee, anime, tech, statistics, writing, comics, and many more under the sun.
+**My interests include**: literature, video games, social science, math, interactive fiction, arts, film, coffee, anime, tech, statistics, writing, comics, and many more under the sun.
 
 ## Recently Played
 <section>
