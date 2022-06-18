@@ -3,7 +3,7 @@ Hey I'm Kir! I currently work at [Lyon](https://lyon.com.ph/) as their Head of D
 
 When I'm not working my sockets off, I'm learning about a multitude of things that interests me at the time. They could be about social or natural science, current events, or arts such as film and video games in general. I like calling them as my "intellectual flings" if you will. 
 
-Other than that, I may be seen going out with my friends or family. Or maybe I could be grinding in Elden Ring hoho. ~~Let me solo her~~
+Other than that, I may be seen going out with my friends or family. Or maybe I could be grinding in Elden Ring _smirk_
 
 ## My Interests
 **They include**: literature, video games, social science, math, interactive fiction, arts, film, fashion, coffee, anime, tech, statistics, writing, comics, traveling, and many more under the sun.
