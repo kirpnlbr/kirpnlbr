@@ -1,12 +1,24 @@
 ## Designer-wannabe-socialscientist-developer—a multipotentialite, really.
-Hey I'm Kir! I currently work at [Lyon](https://lyon.com.ph/) as their Head of Design that does customer support and frontend development at the side too. I'm also an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) for the next school year, taking up BS Management Information Systems as my undergrad. 
+Hey I'm Kir! I'm the Head of Design, sometimes Frontend Developer, and always the Customer Support at [Lyon](https://lyon.com.ph/). I'm an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) too, taking up BS Management Information Systems as my undergrad. 
 
-When I'm not working my sockets off, I'm learning about a multitude of things that interests me at the time. They could be about social or natural science, current events, or arts such as film and video games in general. I like calling them as my "intellectual flings" if you will. 
+In the past, I was mentored by [Christian San Jose](https://christiansanjose.com/) of [UX+ University](https://university.uxpl.us/) for UX Design; a regional science and technology fair winner for a mobile app and poster making; one of her high school batch's leader and creative; and a frustrated illustrator because she dabbled on too many things during her junior high school.
 
-Other than that, I may be seen going out with my friends or family. Or maybe I could be grinding in Elden Ring _smirk_
+When I'm not working my sockets off, I'm either:
+````
+• Learning about a multitude of things that interests me at the moment. (See my "intellectual flings" below)
+• Watching films and pretending to be a renowned reviewer at Letterboxd.
+• Tasting the different cafe lattes of the coffee shops of Metro Manila.
+• Reading short stories, text books, Sci-Fi or Japanese literature.
+• Grinding in Elden Ring, or playing video games in general.
+• Working on side projects, mostly on the creative side.
+• Going out with my friends or family.
+````
 
-## My Interests
-**They include**: literature, video games, social science, math, speculative fiction, arts, film, fashion, coffee, anime, tech, statistics, writing, comics, traveling, and many more under the sun.
+## My Intellectual Flings
+````
+Literature, video games, social science, math, speculative fiction, arts, film, fashion, coffee, anime, statistics,
+tech, writing, comics, traveling, and many more under the sun.
+````
 
 ## Recently Played
 <section>
