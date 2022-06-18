@@ -1,7 +1,9 @@
 ## Designer-wannabe-socialscientist-developer—a multipotentialite, really.
-Hey I'm Kir! I currently work at [Lyon](https://lyon.com.ph/) as their Head of Design that does customer support and frontend development at the side too. I'm also an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) for the next school year. This README is still a work-in-progress so apologies if it's a bit drab 😅
+Hey I'm Kir! I currently work at [Lyon](https://lyon.com.ph/) as their Head of Design that does customer support and frontend development at the side too. I'm also an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) for the next school year, taking up BS Management Information Systems as my undergrad. 
 
-**My interests include**: literature, video games, social science, math, interactive fiction, arts, film, coffee, anime, tech, statistics, writing, comics, traveling, and many more under the sun.
+When I'm not working my sockets off, I'm learning about a multitude of things that interests me at the time. It could be about social or natural science, current events, or arts such as film in general. I call them my "intellectual flings" if you will. Other than that, I may be seen going out with my friends or family.
+
+**My interests include**: literature, video games, social science, math, interactive fiction, arts, film, fashion, coffee, anime, tech, statistics, writing, comics, traveling, and many more under the sun.
 
 ## Recently Played
 <section>
