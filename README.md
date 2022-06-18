@@ -6,7 +6,7 @@ When I'm not working my sockets off, I'm learning about a multitude of things th
 Other than that, I may be seen going out with my friends or family. Or maybe I could be grinding in Elden Ring _smirk_
 
 ## My Interests
-**They include**: literature, video games, social science, math, interactive fiction, arts, film, fashion, coffee, anime, tech, statistics, writing, comics, traveling, and many more under the sun.
+**They include**: literature, video games, social science, math, speculative fiction, arts, film, fashion, coffee, anime, tech, statistics, writing, comics, traveling, and many more under the sun.
 
 ## Recently Played
 <section>
