@@ -16,8 +16,8 @@ When I'm not working my sockets off, I'm either:
 
 ## My Intellectual Flings
 ````
-Literature, video games, social science, math, speculative fiction, arts, film, fashion, coffee, anime, statistics,
-tech, writing, comics, traveling, and many more under the sun.
+Literature, video games, social science, math, speculative fiction, arts, film, fashion, coffee, anime, tech,
+statistics, writing, comics, traveling, and many more under the sun.
 ````
 
 ## Recently Played
