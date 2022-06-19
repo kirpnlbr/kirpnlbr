@@ -1,5 +1,5 @@
 ## Designer-wannabe-socialscientist-developer with a multipotentiality bent
-Hey I'm Kir! I'm the Head of Design, sometimes Frontend Developer, and always the Customer Support at [Lyon](https://lyon.com.ph/). I'm an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) too, taking up BS Management Information Systems as my undergrad. 
+Hey I'm Kir! I'm the Head of Design, sometimes Frontend Developer, and the occasional Customer Support at [Lyon](https://lyon.com.ph/). I'm an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) too, taking up BS Management Information Systems as my undergrad. 
 
 In the past, I was mentored by [Christian San Jose](https://christiansanjose.com/) of [UX+ University](https://university.uxpl.us/) for UX Design; a regional science and technology fair winner for a mobile app and poster making; one of her high school batch's leader and creative; and a frustrated illustrator because she dabbled on too many things during her junior high school.
 
