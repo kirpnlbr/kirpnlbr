@@ -4,7 +4,6 @@ Hey I'm Kir! I'm the Head of Design, sometimes Frontend Developer, and the occas
 In the past, I was mentored by [Christian San Jose](https://christiansanjose.com/) of [UX+ University](https://university.uxpl.us/) for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a frustrated illustrator because she dabbled on too many things during her junior high school.
 
 When I'm not working my sockets off, I'm either:
-
 ````
 • Learning about a multitude of things that interests me at the moment.
 • Watching films and pretending to be a renowned reviewer at Letterboxd.
