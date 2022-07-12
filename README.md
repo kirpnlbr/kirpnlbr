@@ -5,13 +5,13 @@
 
 When I'm not working my sockets off, I'm either:
 ````
-□ Learning about a multitude of things that interests me at the moment.
-□ Watching films and pretending to be an intelligible reviewer at Letterboxd.
-□ Trying the different cafe lattes of the coffee shops of Metro Manila.
-□ Reading short stories, text books, sci-fi or translated literature.
-□ Grinding in Elden Ring, or playing video games in general.
-□ Working on side projects that're on the creative side.
-□ Going out with my friends or family.
+• Learning about a multitude of things that interests me at the moment.
+• Watching films and pretending to be an intelligible reviewer at Letterboxd.
+• Trying the different cafe lattes of the coffee shops of Metro Manila.
+• Reading short stories, text books, sci-fi or translated literature.
+• Grinding in Elden Ring, or playing video games in general.
+• Working on side projects that're on the creative side.
+• Going out with my friends or family.
 ````
 
 ## Recently Played
