@@ -3,8 +3,9 @@ Hey I'm Kir! I'm the Head of Design, sometimes Frontend Developer, and the occas
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a student leader and creative.
 
-When I'm not working my sockets off, I'm either:
 ````
+When I'm not working my sockets off, I'm either:
+
 • Learning about a multitude of things that interests me at the moment.
 • Watching films and pretending to be an intelligible reviewer at Letterboxd.
 • Trying the different cafe lattes of the coffee shops of Metro Manila.
