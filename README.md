@@ -1,4 +1,4 @@
-## Designer-wannabe-socialscientist-and-developer with a multipotentiality bent 
+## Designer-wannabe-socialscientist-and-developer with a multipotentiality bent 👩‍💻
 Hey I'm Kir! I'm the Head of Design, sometimes Frontend Developer, and the occasional Customer Support at [Lyon](https://trylyon.com/). I'm an incoming freshman at [Ateneo de Manila University](https://www.ateneo.edu/) too, taking up BS Management Information Systems as my undergrad. 
 
 <details><summary>See more</summary>
