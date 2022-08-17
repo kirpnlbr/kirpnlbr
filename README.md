@@ -1,5 +1,5 @@
 ## Designer-wannabe-socialscientist-and-developer with a multipotentiality bent 👩‍💻
-Hey I'm Kir. I'm the Head of Design at [Lyon](https://trylyon.com/). I'm a freshman at [Ateneo de Manila University](https://www.ateneo.edu/) too, taking up BS Management Information Systems as my undergraduate. 
+Hey I'm Kir. I'm the Head of Design at [Lyon](https://trylyon.com/). I'm a freshman at [Ateneo de Manila University](https://www.ateneo.edu/) too, taking up BS Management Information Systems as my undergrad. 
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a student leader and creative.
 
