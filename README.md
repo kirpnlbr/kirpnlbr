@@ -1,5 +1,5 @@
-## Creative with a multipotentiality bent 👩‍💻
-Hi! I'm Kir, the Head of Design at [Lyon](https://trylyon.com/) and a freshman at [Ateneo de Manila University](https://www.ateneo.edu/) studying BS Management Information Systems.
+## ✹ creative with a mult!potentiality bent
+Hi! I'm Kir, [LYON's Head of Design](https://trylyon.com/) and a [freshman at Ateneo de Manila University](https://www.ateneo.edu/) currently taking BS Management Information Systems as my undergrad.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a student leader and creative.
 
@@ -13,14 +13,14 @@ When I'm not working my sockets off, I'm either:
 • Playing video games (currently playing: God of War: Ragnarok 8))
 ````
 
-## Recently Played
+## ✹ recently played
 <section>
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=penalberkirstine)
   
 </section>
 
-## Connect
+## ✹ connect
 <section>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kir@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
