@@ -1,5 +1,5 @@
 ## Creative with a multipotentiality bent 👩‍💻
-Hi! I'm Kir, Head of Design at [Lyon](https://trylyon.com/) and a freshman at [Ateneo de Manila University](https://www.ateneo.edu/) studying BS Management Information Systems.
+Hi! I'm Kir, the Head of Design at [Lyon](https://trylyon.com/) and a freshman at [Ateneo de Manila University](https://www.ateneo.edu/) studying BS Management Information Systems.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a student leader and creative.
 
@@ -10,7 +10,7 @@ When I'm not working my sockets off, I'm either:
 • Watching films and pretending to be an intelligible reviewer at Letterboxd.
 • Trying the different cafe lattes of the coffee shops of Metro Manila.
 • Reading short stories, text books, sci-fi or translated literature.
-• Playing video games (currently playing: NONE, waiting for GoW: Ragnarok)
+• Playing video games (currently playing: God of War: Ragnarok 8))
 ````
 
 ## Recently Played
