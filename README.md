@@ -1,4 +1,4 @@
-## ✹ creative with a mult!potentiality bent
+## ✹ creative with a multipotentiality bent
 Hi! I'm Kir, [LYON's Head of Design](https://trylyon.com/) and a [freshman at Ateneo de Manila University](https://www.ateneo.edu/) currently taking BS Management Information Systems as my undergrad.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a student leader and creative.
