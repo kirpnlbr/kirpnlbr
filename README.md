@@ -10,7 +10,7 @@ When I'm not working my sockets off, I'm either:
 • Watching films and pretending to be an intelligible reviewer at Letterboxd.
 • Trying the different cafe lattes of the coffee shops of Metro Manila.
 • Reading short stories, text books, sci-fi or translated literature.
-• Playing video games (currently playing: God of War: Ragnarok 8))
+• Playing video games (currently waiting for Atomic Heart)
 ````
 
 ## ✹ recently played
