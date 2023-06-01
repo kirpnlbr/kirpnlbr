@@ -1,5 +1,5 @@
 ## ✹ creative with a multipotentiality bent
-Hi! I'm Kir, [Boozt's Head of Design, Social Media Manager](https://boozt.io/discover) and a [freshman at Ateneo de Manila University](https://www.ateneo.edu/) currently taking BS Management Information Systems as my undergrad.
+Hi! I'm Kir, [Boozt's Head of Design](https://boozt.io/discover) and a [sophomore at Ateneo de Manila University](https://www.ateneo.edu/) currently taking BS Management Information Systems as my undergrad.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a student leader and creative.
 
