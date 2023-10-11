@@ -1,9 +1,7 @@
 ## ✹ creative with a multipotentiality bent
-Hi! I'm Kir, [Boozt's Head of Design](https://boozt.io/discover) and a [sophomore at Ateneo de Manila University](https://www.ateneo.edu/) currently taking BS Management Information Systems as my undergrad.
+Hi! I'm Kir, a full-stack designer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. Currently, I'm the VP for Events at User Experience Society.
 
-In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; a regional science and technology fair winner for a mobile app and poster making; and a student leader and creative.
-
-When I'm not working my sockets off, I'm either:
+In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two startups with my high school colleagues; a regional science and technology fair winner for a mobile app; and a student leader and creative.
 
 ````
 • Learning about a multitude of things that interests me at the moment.
@@ -22,9 +20,6 @@ When I'm not working my sockets off, I'm either:
 
 ## ✹ connect
 <section>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kir@lyon.com.ph&tf=1" target="_blank" ref="noopener noreferrer">
-    <img src="https://img.shields.io/badge/lyon-%23161519.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=penalberkirstine@gmail.com&tf=1" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
