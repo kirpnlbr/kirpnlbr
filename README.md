@@ -5,7 +5,6 @@ In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ Un
 
 ````
 • Learning about a multitude of things that interests me at the moment.
-• Watching films and pretending to be an intelligible reviewer at Letterboxd.
 • Trying the different cafe lattes of the coffee shops of Metro Manila.
 • Reading short stories, text books, sci-fi or translated literature.
 • Playing video games (Finishing Marvel's Guardians of the Galaxy)
