@@ -1,5 +1,5 @@
 ## ✹ creative with a multipotentiality bent
-Hi! I'm Kir, a full-stack designer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. Currently, I'm the VP for Events at User Experience Society.
+Hi! I'm Kir, a full-stack designer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two startups with my high school colleagues; a regional science and technology fair winner for a mobile app; and a student leader and creative.
 
@@ -7,7 +7,7 @@ In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ Un
 • Learning about a multitude of things that interests me at the moment.
 • Trying the different cafe lattes of the coffee shops of Metro Manila.
 • Reading short stories, text books, sci-fi or translated literature.
-• Playing video games (Finishing Marvel's Guardians of the Galaxy)
+• Playing video games (Finishing Spider-Man 2)
 ````
 
 ## ✹ recently played
