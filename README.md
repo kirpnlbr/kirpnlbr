@@ -1,4 +1,4 @@
-## ✹ background
+## Background
 Hi! I'm Kir, a designer/engineer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two SaaS startups at 17; a regional science and technology fair winner for a mobile app; and a student leader and creative.
@@ -11,14 +11,14 @@ In my free time, I...
 • Play video games (Bloodborne HEHE).
 ````
 
-## ✹ recently played
+## Recently played
 <section>
   
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=penalberkirstine)
   
 </section>
 
-## ✹ connect
+## Connect
 <section>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=penalberkirstine@gmail.com&tf=1" target="_blank" ref="noopener noreferrer">
     <img src="https://img.shields.io/badge/gmail-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
