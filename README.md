@@ -1,7 +1,7 @@
 ## ✹ creative with a multipotentiality bent
-Hi! I'm Kir, a full-stack designer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad.
+Hi! I'm Kir, a designer/engineer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad.
 
-In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two startups with my high school colleagues; a regional science and technology fair winner for a mobile app; and a student leader and creative.
+In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two SaaS startups at 17; a regional science and technology fair winner for a mobile app; and a student leader and creative.
 
 ````
 • Learning about a multitude of things that interests me at the moment.
