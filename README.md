@@ -3,11 +3,12 @@ Hi! I'm Kir, a designer/engineer and a sophomore at Ateneo de Manila University 
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two SaaS startups at 17; a regional science and technology fair winner for a mobile app; and a student leader and creative.
 
+In my free time, I...
 ````
-• Reading essays, contemporary fiction, or translated literature.
-• Designing & developing websites for studios & lifestyle brands.
-• Comparing the lattes of Metro Manila cafes.
-• Playing video games (Bloodborne HEHE).
+• Read essays, contemporary fiction, or translated literature.
+• Design & develop websites for studios & lifestyle brands.
+• Compare the lattes of Metro Manila cafes.
+• Play video games (Bloodborne HEHE).
 ````
 
 ## ✹ recently played
