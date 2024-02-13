@@ -1,4 +1,4 @@
-## ✹ creative with a multipotentiality bent
+## ✹ background
 Hi! I'm Kir, a designer/engineer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two SaaS startups at 17; a regional science and technology fair winner for a mobile app; and a student leader and creative.
