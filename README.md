@@ -7,8 +7,8 @@ In my free time, I...
 ````
 • Read essays, literary fiction, or translated literature.
 • Go around the Metro, trying out specialty coffee.
-• Try to learn about anything, everywhere.
-• Play video games (Bloodborne HEHE).
+• Try to learn about anything.
+• Play video games.
 ````
 
 ## Recently played
