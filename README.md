@@ -1,14 +1,14 @@
 ## About me
-Hi! I'm Kir, a designer/engineer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I am also the Vice President for Events at User Experience Society.
+Hi! I'm Kir. I'm a design engineer, applied researcher, and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad.
 
-In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer for two SaaS startups at 17; a regional science and technology fair winner for a mobile app; and a student leader and creative.
+In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer of two SaaS startups at 17; a regional science and technology fair winner for a mobile app; and a student leader and creative.
 
 In my free time, I...
 ````
-• Read essays, literary fiction, or translated literature.
+• Read articles, literary fiction, or translated literature.
 • Go around the Metro, trying out specialty coffee.
 • Try to learn about anything, anywhere.
-• Play video games (Bloodborne HEHE)
+• Play video games (Bloodborne)
 ````
 
 ## Recently played
