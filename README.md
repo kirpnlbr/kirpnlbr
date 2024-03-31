@@ -11,13 +11,6 @@ In my free time, I...
 • Play video games (Bloodborne)
 ````
 
-## Recently played
-<section>
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=penalberkirstine)
-  
-</section>
-
 ## Connect
 <section>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=penalberkirstine@gmail.com&tf=1" target="_blank" ref="noopener noreferrer">
