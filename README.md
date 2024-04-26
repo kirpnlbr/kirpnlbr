@@ -9,7 +9,8 @@ When I'm not pushing pixels or code, I:
 • Tinker with my personal knowledge management and productivity system.
 • Write my thoughts (sometimes in French) or play video games on my PS5.
 • Go around the Metro to try out specialty coffee.
-• Test out new apps to study their interfaces.
+• Hang out with my family & friends.
+• Shoot smartphone photography, study fashion brands, and appreciate architecture.
 ````
 
 ## Connect
