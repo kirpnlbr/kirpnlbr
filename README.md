@@ -7,7 +7,7 @@ When I'm not pushing pixels or code, I:
 ````
 • Read and study about anything that interests me at the moment.
 • Tinker with my personal knowledge management and productivity system.
-• Write my thoughts (sometimes in French) or play video games on my PS5.
+• Write my stream of thoughts or play video games on my PS5.
 • Go around the Metro to try out specialty coffee.
 • Hang out with my family & friends.
 • Shoot smartphone photography, study fashion brands, and appreciate architecture.
