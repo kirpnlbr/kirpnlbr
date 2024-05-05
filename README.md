@@ -1,16 +1,15 @@
 ## About me
-Hi! I'm Kir. I'm a design engineer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I'm enthusiastic about art, fashion, coffee, FromSoftware games, ML, and visual metaphors.
+Hi! I'm Kir. I'm a design engineer and a sophomore at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I'm enthusiastic about art, video games, ML, and visual metaphors.
 
 In the past, I was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; the founding designer of two SaaS startups when I was 17; a regional science and technology fair winner for a mobile app; and a student leader and creative.
 
 When I'm not pushing pixels or code, I:
 ````
 • Read and study about anything that interests me at the moment.
-• Tinker with my personal knowledge management and productivity system.
+• Tinker with my personal knowledge management or productivity system.
 • Write my stream of thoughts or play video games on my PS5.
 • Go around the Metro to try out specialty coffee.
 • Hang out with my family & friends.
-• Shoot smartphone photography, study fashion brands, and appreciate architecture.
 ````
 
 ## Connect
