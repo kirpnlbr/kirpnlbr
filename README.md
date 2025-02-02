@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm Kir. I'm a design & ML engineer and a junior at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I like a lot of things, namely—human-computer interaction, creative coding, game design, machine learning, and visual metaphors. Currently, I'm the President of [UX Society](https://uxsociety.org/).
+Hi! I'm Kir. I'm a design & ML engineer and a junior at Ateneo de Manila University currently taking BS Management Information Systems as my undergrad. I think a lot about human-computer interaction, artificial intelligence, and complex systems. Currently, I'm the President of [UX Society](https://uxsociety.org/).
 
 In the past, I co-organized DT|UX Summit 2024 featuring Don Norman, the father of UX; was mentored by Christian San Jose, the founder and CEO of UX+ University, for UX Design; worked as the founding designer of two SaaS startups at 17; and won a regional science and technology fair for a mobile app.
 
